@@ -41,6 +41,14 @@ Sou estudante de Ciência da Computação com experiência prática em desenvolv
 
 ---
 
+## 📫 Contato
+
+- ✉️ Email: [Hillary_gramacho@hotmail.com](mailto:Hillary_gramacho@hotmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/hillary](https://linkedin.com/in/hillary-gramacho-7380b21a7/)  
+- 💻 GitHub: [github.com/helloury](https://github.com/helloury)
+
+---
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -56,14 +64,6 @@ Sou estudante de Ciência da Computação com experiência prática em desenvolv
   />
 </picture>
 
-
-## 📫 Contato
-
-- ✉️ Email: [Hillary_gramacho@hotmail.com](mailto:Hillary_gramacho@hotmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/hillary](https://linkedin.com/in/hillary-gramacho-7380b21a7/)  
-- 💻 GitHub: [github.com/helloury](https://github.com/helloury)
-
 ---
-
 <p align="center"><i>"A tecnologia move o mundo. E eu quero ajudar a programar esse movimento."</i></p>
 
