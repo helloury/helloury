@@ -14,10 +14,12 @@
 
 ---
 
-##  Sobre mim
+## ⭐ Sobre Mim
 
-Sou estudante de Ciência da Computação com experiência prática em desenvolvimento de software, automação de tarefas com bots, análise de dados e ferramentas para segurança básica. Tenho paixão por resolver problemas de forma criativa e transformar ideias em código.
-
+Sou estudante de Ciência da Computação, Pretendo me aprofundar mais em programação Back-end, voltado para Banco de dados ou segurança de dados. Porém gosto de aprender de tudo(quando possivel). Estou em busca de um Estágio, sem preferências em relação a área, tentando sempre buscar em me aprimorar no que for necessário.
+### Atualmente
+- Aprendendo algumas funcionalidades de DevOps
+- Estrutura de dados (Trees, Hash, etc...)
 
 🌍 Futuro: morar fora (iniciando por 🇵🇹), fluência em inglês e mestrado na área.
 
@@ -36,8 +38,10 @@ Sou estudante de Ciência da Computação com experiência prática em desenvolv
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
 
