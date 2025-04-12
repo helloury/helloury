@@ -1,7 +1,7 @@
 <h1 align="center">👋 Oi! Me chamo Hillary</h1>
 
 <p align="center">
-  🎓 Cientista da Computação  • 🌍 Foco internacional
+  🎓 Cientista da Computação 
 </p>
 
 <p align="center">
