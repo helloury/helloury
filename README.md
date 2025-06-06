@@ -17,9 +17,10 @@
 ## ⭐ Sobre Mim
 
 Sou estudante de Ciência da Computação, Pretendo me aprofundar mais em programação Back-end, voltado para Banco de dados ou segurança de dados. Porém gosto de aprender de tudo(quando possivel). Estou em busca de um Estágio, sem preferências em relação a área, tentando sempre buscar em me aprimorar no que for necessário.
-### Atualmente
-- Aprendendo algumas funcionalidades de DevOps
+### Atualmente estudando...
+- Algumas funcionalidades de DevOps
 - Estrutura de dados (Trees, Hash, etc...)
+- Utilizaçao de MPI, threads, cluster e paralelismo
 
 🌍 Futuro: morar fora (iniciando por 🇵🇹), fluência em inglês e mestrado na área.
 
