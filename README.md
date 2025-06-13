@@ -21,6 +21,7 @@ Sou estudante de Ciência da Computação, Pretendo me aprofundar mais em progra
 - Algumas funcionalidades de DevOps
 - Estrutura de dados (Trees, Hash, etc...)
 - Utilizaçao de MPI, threads, cluster e paralelismo
+- HTML, CSS e JavaScript 
 
 🌍 Futuro: morar fora (iniciando por 🇵🇹), fluência em inglês e mestrado na área.
 
