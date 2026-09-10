@@ -16,7 +16,7 @@
 
 ## ⭐ Sobre Mim
 
-Sou estudante de Ciência da Computação, Pretendo me aprofundar mais em programação Back-end, voltado para Banco de dados ou segurança de dados. Porém gosto de aprender de tudo(quando possivel). Estou em busca de um Estágio, sem preferências em relação a área, tentando sempre buscar em me aprimorar no que for necessário.
+Sou estudante de Ciência da Computação, Faço desenvolvimento Fullstack e me especializando em Banco de dados. Porém gosto de aprender de tudo(quando possivel). Estou em busca de um Estágio, sem preferências em relação a área, tentando sempre buscar em me aprimorar no que for necessário.
 
 ---
 
